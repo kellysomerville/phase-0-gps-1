@@ -20,3 +20,7 @@ Good Afternoon, ${1:this} is Kelly's little ${2:snippet}.
 <p> Adding some more code here too..... <p/>
 
 </snippet>
+
+
+### making a change to awesome_page.md per homework 
+*"small_conflict"*
