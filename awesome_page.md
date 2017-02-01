@@ -24,3 +24,4 @@ Good Afternoon, ${1:this} is Kelly's little ${2:snippet}.
 
 ### making a change to awesome_page.md per homework 
 *"small_conflict"*
+## made another change to get CONFLICT with MASTER
